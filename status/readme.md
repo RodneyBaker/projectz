@@ -2,9 +2,9 @@
 
 _Status description:_
 
-| Completed | In Progress | In Planning | On Hold |  In Cue | 
-| --- | --- |  --- | --- | --- |
-| ✔ | ✏️ | 🟢 | ❗️ | 📤 |   
+| Completed | In Progress | In Planning | On Hold |  In Cue | Pause | Fast Forward | Rewind |
+| --- | --- |  --- | --- | --- | --- | --- | --- |
+| ✔ | ✏️ | 🟢 | ❗️ | 📤 | ⏸️ | ⏩ | ⏪ |  
 
 _Note: Items in tables for each milestone do not imply an order of implementation._
 
