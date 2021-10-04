@@ -1,14 +1,15 @@
 # Roadmap
 
-_Note: Items in tables for each milestone do not imply an order of implementation._
-
-_Note: Milestone entries include the most notable updates only. For list of all commits see [link](https://github.com/)_
-
 _Status description:_
 
 | Completed | In Progress | In Planning | On Hold |  In Cue | 
 | --- | --- |  --- | --- | --- |
 | ✔ | ✏️ | 🟢 | ❗️ | 📤 |   
+
+_Note: Items in tables for each milestone do not imply an order of implementation._
+
+_Note: Milestone entries include the most notable updates only. For list of all commits see [link](https://github.com/)_
+
 
 ## Releases
 
