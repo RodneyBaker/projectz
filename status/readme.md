@@ -7,7 +7,7 @@ _Note: Milestone entries include the most notable updates only. For list of all 
 _Status description:_
 
 | Completed | In Progress | In Planning | On Hold |  In Cue | 
-
+| --- | --- |  --- | --- | --- |
 | ✔ | ✏️ | 🟢 | ❗️ | 📤 |   
 
 ## Releases
