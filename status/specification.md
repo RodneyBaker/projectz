@@ -1,4 +1,4 @@
-# Specification (placeholder)
+# Specification 
 
 ## Table of Contents
 
