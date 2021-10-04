@@ -12,7 +12,7 @@ _Status description:_
 
 ## Releases
 
-- [v0.0 released October 2021](#release-version-00)
+- [v0.0 released October 2021](#release-version-001)
 - [v0.1 (Projected) November 2021](#release-version-01)
 
 ## Release Version 0.01
