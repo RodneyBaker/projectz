@@ -8,15 +8,15 @@ _Status description:_
 
 _Note: Items in tables for each milestone do not imply an order of implementation._
 
-_Note: Milestone entries include the most notable updates only. For list of all commits see [link](https://github.com/)_
+_Note: Milestone entries include the most notable updates only. For list of all commits see [link](https://github.com/RodneyBaker/projectz/graphs/commit-activity)_
 
 
 ## Releases
 
-- [v0.0 released October 2021](#release-version-001)
-- [v0.1 (Projected) November 2021](#release-version-01)
+- [v0.0 October 2021](#release-version-000)
+- [v0.1 (Projected) 2022](#release-version-01)
 
-## Release Version 0.01
+## Release Version 0.00
 
 | Status | Description | Comments |
 | --- | --- |  --- |
