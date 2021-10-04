@@ -20,10 +20,10 @@ _Note: Milestone entries include the most notable updates only. For list of all 
 
 | Status | Description | Comments |
 | --- | --- |  --- |
-| ✔️| Add | [spec doc](../specification.md) |
-| ✔️| Fix | [spec doc](../specification.md) |
-| ✔️| Remove | [spec doc](../specification.md) |
-| ✔️| Enhance | [spec doc](../specification.md) |
+| ✔️| Add | [spec doc](specification.md) |
+| ✔️| Fix | [spec doc](specification.md) |
+| ✔️| Remove | [spec doc](/specification.md) |
+| ✔️| Enhance | [spec doc](/specification.md) |
 
 ## Release Version 0.1
 | Status | Description | Comments |
@@ -33,5 +33,5 @@ _Note: Milestone entries include the most notable updates only. For list of all 
 
 | Status | Description | Comments |
 | --- | --- |  --- |
-| ✔ | Update  | [spec doc](https://github.com/  /specification.md) |
-| ✔️| Update  | [spec doc](https://github.com/ /specification.md) |
+| ✔ | Update  | [spec doc](specification.md) |
+| ✔️| Update  | [spec doc](specification.md) |
