@@ -28,10 +28,10 @@ _Note: Milestone entries include the most notable updates only. For list of all 
 ## Release Version 0.1
 | Status | Description | Comments |
 | --- | --- |  --- |
-| ❗️ | Adding (cmp [Compensating Transaction](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction), [SAGA pattern](https://microservices.io/patterns/data/saga.html)) | [spec doc](https://github.com/serverlessworkflow/specification/blob/0.6.x/specification.md) |
+| ❗️ | Adding (asset [Public Asset](https://), [asset](https:// /assets.html)) | [spec doc](https://) |
 ## Release Version 0.5
 
 | Status | Description | Comments |
 | --- | --- |  --- |
-| ✔ | Update Switch State | [spec doc](https://github.com/  /specification.md) |
-| ✔️| Update waitForCompletion property | [spec doc](https://github.com/ /specification.md) |
+| ✔ | Update  | [spec doc](https://github.com/  /specification.md) |
+| ✔️| Update  | [spec doc](https://github.com/ /specification.md) |
