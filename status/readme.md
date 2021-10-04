@@ -8,7 +8,7 @@ _Status description:_
 
 | Completed | In Progress | In Planning | On Hold |  In Cue | 
 
-| ✔ | ✏️ | 🚩 | ❗️|  |   
+| ✔ | ✏️ | 🟢 | ❗️ | 📤 |   
 
 ## Releases
 
