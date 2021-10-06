@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+## WELCOME!
+
+![Drag Racing](https://github.com/RodneyBaker/projectz/blob/main/raece/images/crystalworld.gif)
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+
+
 
 You can use the [editor on GitHub](https://github.com/RodneyBaker/projectz/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
